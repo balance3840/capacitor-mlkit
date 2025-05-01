@@ -1,5 +1,23 @@
 # Changelog
 
+## 7.2.1
+
+### Patch Changes
+
+- [`772932311a6f6e55214d5fe58970fd66a79ce8ff`](https://github.com/capawesome-team/capacitor-mlkit/commit/772932311a6f6e55214d5fe58970fd66a79ce8ff) ([#265](https://github.com/capawesome-team/capacitor-mlkit/pull/265)): fix(ios): prevent crash due to a race condition at the start of the scan
+
+## 7.2.0
+
+### Minor Changes
+
+- [`fe565604ca6a73f5a1eac47490e7760f3844f9c2`](https://github.com/capawesome-team/capacitor-mlkit/commit/fe565604ca6a73f5a1eac47490e7760f3844f9c2) ([#261](https://github.com/capawesome-team/capacitor-mlkit/pull/261)): feat: add `3840x2160` resolution
+
+- [`b5fdd4067573dd4ae077fd4cfb8e4678396c22c6`](https://github.com/capawesome-team/capacitor-mlkit/commit/b5fdd4067573dd4ae077fd4cfb8e4678396c22c6) ([#263](https://github.com/capawesome-team/capacitor-mlkit/pull/263)): feat: add torch support
+
+### Patch Changes
+
+- [`df6f50151b41dfac56b93f8c7b64ffa470a566cb`](https://github.com/capawesome-team/capacitor-mlkit/commit/df6f50151b41dfac56b93f8c7b64ffa470a566cb) ([#255](https://github.com/capawesome-team/capacitor-mlkit/pull/255)): fix(barcode-scanning): opening and closing repeatedly occasionally results in a black screen
+
 ## 7.1.0
 
 ### Minor Changes
